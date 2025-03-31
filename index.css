@@ -1,0 +1,23 @@
+body {
+    font-family: 'Jersey 10';
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background: #A982C8;
+  }
+
+a {
+    text-decoration-line: none;
+    color: #3737fd;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    color: #333333 ;
+}
+h1 {
+    font-size: 50px;
+    color: #212121;
+}
+  
